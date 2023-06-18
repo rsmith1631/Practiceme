@@ -1,0 +1,15 @@
+C:\Users\rsmit\onedrive\desktop\repos\practiceme\mypractice\bin\Debug\net7.0\mypractice.exe
+C:\Users\rsmit\onedrive\desktop\repos\practiceme\mypractice\bin\Debug\net7.0\mypractice.deps.json
+C:\Users\rsmit\onedrive\desktop\repos\practiceme\mypractice\bin\Debug\net7.0\mypractice.runtimeconfig.json
+C:\Users\rsmit\onedrive\desktop\repos\practiceme\mypractice\bin\Debug\net7.0\mypractice.dll
+C:\Users\rsmit\onedrive\desktop\repos\practiceme\mypractice\bin\Debug\net7.0\mypractice.pdb
+C:\Users\rsmit\onedrive\desktop\repos\practiceme\mypractice\obj\Debug\net7.0\mypractice.csproj.AssemblyReference.cache
+C:\Users\rsmit\onedrive\desktop\repos\practiceme\mypractice\obj\Debug\net7.0\mypractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsmit\onedrive\desktop\repos\practiceme\mypractice\obj\Debug\net7.0\mypractice.AssemblyInfoInputs.cache
+C:\Users\rsmit\onedrive\desktop\repos\practiceme\mypractice\obj\Debug\net7.0\mypractice.AssemblyInfo.cs
+C:\Users\rsmit\onedrive\desktop\repos\practiceme\mypractice\obj\Debug\net7.0\mypractice.csproj.CoreCompileInputs.cache
+C:\Users\rsmit\onedrive\desktop\repos\practiceme\mypractice\obj\Debug\net7.0\mypractice.dll
+C:\Users\rsmit\onedrive\desktop\repos\practiceme\mypractice\obj\Debug\net7.0\refint\mypractice.dll
+C:\Users\rsmit\onedrive\desktop\repos\practiceme\mypractice\obj\Debug\net7.0\mypractice.pdb
+C:\Users\rsmit\onedrive\desktop\repos\practiceme\mypractice\obj\Debug\net7.0\mypractice.genruntimeconfig.cache
+C:\Users\rsmit\onedrive\desktop\repos\practiceme\mypractice\obj\Debug\net7.0\ref\mypractice.dll
